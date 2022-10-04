@@ -1,7 +1,7 @@
 # ch2salesTax
 Write a program that computes the total sales tax on a $95 purchase. Assume the state sales tax is 6.5% and the county sales tax is 2%. Display the purchase price, state tax, county tax, and total cost of the purchase. Use spaces in the output between text and numbers to make it look more readable. Start the output with a header like this: "Chapter 2 Sales Tax by Student Name", where "Student Name" should be replaced with your name.  Here is an example of the output, using a purchase price of $10:  Ch 2 Sales Tax  Take a screenshot of the result when the purchase price is $95. Take a screenshot of the result of another execution when the purchase price is a different value (it cannot be $10).     NOTE: Remember the requirements for a header and a pause at the end of the program, discussed in the reading "Console Applications". These are required in every console application project.  Submission: Submit a single zipped folder containing all of the specified screenshots AND the root folder for the project.
 
-![1](https://github.com/bell-kevin/ch2salesTax/blob/main/ConsoleApplication1/ch2salesTaxKevinBell.PNG
+![1](https://github.com/bell-kevin/ch2salesTax/blob/main/ConsoleApplication1/ch2salesTaxKevinBell.PNG)
 
 ![2](https://github.com/bell-kevin/ch2salesTax/blob/main/ConsoleApplication1/image2.PNG)
 
